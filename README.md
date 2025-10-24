@@ -33,16 +33,12 @@ Meu nome é João Vitor e atualmente eu sou estudante do SENAI.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsyn&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-contribution-graph.vercel.app/api?user=vitorsyn&theme=dark" alt="contribution graph">
-</p>
-
 ---
 
 ### 🚀 Conecte-se comigo
 
 <p align="left">
-  <a href="httpsa://linkedin.com/in/joao-vitor-silva18" target="_blank">
+  <a href="https://linkedin.com/in/joao-vitor-silva18" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="mailto:vitor2345e@gmail.com" target="_blank">
@@ -64,4 +60,3 @@ Meu nome é João Vitor e atualmente eu sou estudante do SENAI.
 
 > "Eu faço da dificuldade a minha motivação. A volta por cima vem na continuação."
 
-> <p align="right"><em>— Chorão</em></p>
